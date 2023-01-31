@@ -5,3 +5,4 @@ a.git init
 b.git add .
 c.git commit -m <type message here>
 git push origin master
+your code will go to github repositiry
